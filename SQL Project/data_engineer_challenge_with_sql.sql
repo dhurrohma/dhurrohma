@@ -40,6 +40,7 @@ CREATE TABLE `ms_pelanggan` (
 --
 
 INSERT INTO `ms_pelanggan` (`no_urut`, `kode_cabang`, `kode_pelanggan`, `nama_pelanggan`, `alamat`) VALUES
+(1, 'AMB', 'cust0001', 'Anita Tamara, S.H.', 'Ruko Kembang Indah, No. 11'),
 (2, 'BPP', 'cust0002', 'Arif Ganang', 'Vila Mahesa, No. 21'),
 (3, 'GRT', 'cust0003', 'Resa Ayu', 'Gunung Jati Village, No. 13'),
 (4, 'PLB', 'cust0004', 'Tati Inggrid', 'Nurul Ilmi Residence, No. 58'),
@@ -48,8 +49,7 @@ INSERT INTO `ms_pelanggan` (`no_urut`, `kode_cabang`, `kode_pelanggan`, `nama_pe
 (7, 'SMR', 'cust0007', 'Tina Amalia', 'Vila Nugraha, No. 94'),
 (8, 'TGR', 'cust0008', 'Hendri Utama', 'Ruko Western, No. 14'),
 (9, 'TKP', 'cust0009', 'Ir. Nanang Utomo', 'Jalan Oto Iskandar Dinata, No. 14'),
-(10, 'DMI', 'cust0010', 'Nanda Tessa, Drs.', 'Ruko Oasis, No. 12'),
-(1, 'AMB', 'cust0001', 'Anita Tamara, S.H.', 'Ruko Kembang Indah, No. 11');
+(10, 'DMI', 'cust0010', 'Nanda Tessa, Drs.', 'Ruko Oasis, No. 12');
 
 -- --------------------------------------------------------
 
@@ -69,6 +69,7 @@ CREATE TABLE `ms_produk` (
 --
 
 INSERT INTO `ms_produk` (`no_urut`, `kode_produk`, `nama_produk`, `harga`) VALUES
+(1, 'prod-01', 'Ikat Pinggang Dion', 61000),
 (2, 'prod-02', 'Tas Ransel Eger', 200000),
 (3, 'prod-03', 'Voucher Belanja 120rb', 120000),
 (4, 'prod-04', 'Kotak Pensil Dion', 11000),
@@ -77,8 +78,7 @@ INSERT INTO `ms_produk` (`no_urut`, `kode_produk`, `nama_produk`, `harga`) VALUE
 (7, 'prod-07', 'Pulpen 6 Warna Nahkoda', 16000),
 (8, 'prod-08', 'Lampu Tumbler Warna-warni', 30000),
 (9, 'prod-09', 'Dasi Navy ', 50000),
-(10, 'prod-10', 'Buku Tulis Koki 10 pcs', 20000),
-(1, 'prod-01', 'Ikat Pinggang Dion', 61000);
+(10, 'prod-10', 'Buku Tulis Koki 10 pcs', 20000);
 
 -- --------------------------------------------------------
 
@@ -99,6 +99,7 @@ CREATE TABLE `tr_penjualan` (
 --
 
 INSERT INTO `tr_penjualan` (`kode_transaksi`, `tanggal_transaksi`, `kode_pelanggan`, `no_urut`, `kode_produk`) VALUES
+('tr-0001', '2021-08-01 19:18:01', 'cust0009', 1, 'prod-09'),
 ('tr-0001', '2021-08-01 19:08:01', 'cust0009', 2, 'prod-05'),
 ('tr-0001', '2021-08-01 19:08:01', 'cust0009', 3, 'prod-10'),
 ('tr-0002', '2021-08-02 13:16:02', 'cust0002', 1, 'prod-01'),
@@ -110,8 +111,7 @@ INSERT INTO `tr_penjualan` (`kode_transaksi`, `tanggal_transaksi`, `kode_pelangg
 ('tr-0004', '2021-08-04 12:13:05', 'cust0005', 3, 'prod-03'),
 ('tr-0004', '2021-08-04 12:13:05', 'cust0005', 4, 'prod-04'),
 ('tr-0005', '2021-08-05 11:01:13', 'cust0004', 1, 'prod-07'),
-('tr-0006', '2021-08-05 11:19:05', 'cust0008', 1, 'prod-04'),
-('tr-0001', '2021-08-01 19:18:01', 'cust0009', 1, 'prod-09');
+('tr-0006', '2021-08-05 11:19:05', 'cust0008', 1, 'prod-04');
 
 -- --------------------------------------------------------
 
