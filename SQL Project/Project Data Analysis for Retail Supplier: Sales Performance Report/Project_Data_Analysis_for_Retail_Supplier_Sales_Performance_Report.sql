@@ -12,14 +12,16 @@ GROUP BY YEAR(date), category_name
 ORDER BY YEAR(date) ASC, SUM(sale_dollars) DESC;
 
 -- Profit Percentage by Year
-SELECT YEAR(date) AS years, SUM(bottles_sold * state_bottle_cost) AS cost, SUM(sale_dollars) AS sales, ROUND((SUM(sale_dollars) - SUM(bottles_sold * state_bottle_cost)) / SUM(bottles_sold * state_bottle_cost) * 100, 2) AS profit_percentage
+SELECT YEAR(date) AS years, SUM(bottles_sold * state_bottle_cost) AS cost, SUM(sale_dollars) AS sales, 
+       ROUND((SUM(sale_dollars) - SUM(bottles_sold * state_bottle_cost)) / SUM(bottles_sold * state_bottle_cost) * 100, 2) AS profit_percentage
 FROM `iowa_drink_sales`
 WHERE bottles_sold > 0
 GROUP BY years
 ORDER BY years ASC;
 
 -- Profit Percentage by Category
-SELECT YEAR(date) AS years, category_name, SUM(bottles_sold * state_bottle_cost) AS cost, SUM(sale_dollars) AS sales, ROUND((SUM(sale_dollars) - SUM(bottles_sold * state_bottle_cost)) / SUM(bottles_sold * state_bottle_cost) * 100, 2) AS profit_percentage
+SELECT YEAR(date) AS years, category_name, SUM(bottles_sold * state_bottle_cost) AS cost, SUM(sale_dollars) AS sales, 
+       ROUND((SUM(sale_dollars) - SUM(bottles_sold * state_bottle_cost)) / SUM(bottles_sold * state_bottle_cost) * 100, 2) AS profit_percentage
 FROM `iowa_drink_sales`
 WHERE YEAR(date) = 2021 AND bottles_sold > 0
 GROUP BY category_name
