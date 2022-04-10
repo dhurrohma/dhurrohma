@@ -1,0 +1,385 @@
+customer_id,customer_name,segment,country,city,state,postal_code,region,create_date
+PO-19195,Phillina Ober,Home Office,United States,Naperville,Illinois,60540,Central,2015-01-04
+JO-15145,Jack O'Briant,Corporate,United States,Athens,Georgia,30605,South,2015-01-06
+ME-17320,Maria Etezadi,Home Office,United States,Henderson,Kentucky,42420,South,2015-01-06
+AJ-10780,Anthony Jacobs,Corporate,United States,Springfield,Virginia,22153,South,2015-01-10
+CS-12250,Chris Selesnick,Corporate,United States,Bossier City,Louisiana,71111,South,2015-01-13
+BS-11590,Brendan Sweed,Corporate,United States,Philadelphia,Pennsylvania,19140,East,2015-01-14
+DW-13195,David Wiener,Corporate,United States,Springfield,Oregon,97477,West,2015-01-18
+MM-18280,Muhammed MacIntyre,Corporate,United States,Smyrna,Tennessee,37167,South,2015-01-20
+CA-11965,Carol Adams,Corporate,United States,Rapid City,South Dakota,57701,Central,2015-01-26
+SD-20485,Shirley Daniels,Home Office,United States,Alexandria,Virginia,22304,South,2015-01-26
+CD-12790,Cynthia Delaney,Home Office,United States,San Diego,California,92037,West,2015-02-02
+MH-17440,Mark Haberlin,Corporate,United States,Escondido,California,92025,West,2015-02-04
+DB-13270,Deborah Brumfield,Home Office,United States,San Diego,California,92024,West,2015-02-04
+ND-18460,Neil Ducich,Corporate,United States,Chesapeake,Virginia,23320,South,2015-02-06
+CK-12760,Cyma Kinney,Corporate,United States,Linden,New Jersey,7036,East,2015-02-07
+NM-18445,Nathan Mautz,Home Office,United States,North Las Vegas,Nevada,89031,West,2015-02-08
+ML-17395,Marina Lichtenstein,Corporate,United States,Seattle,Washington,98103,West,2015-02-14
+BF-11020,Barry Französisch,Corporate,United States,Seattle,Washington,98105,West,2015-02-15
+LC-16930,Linda Cazamias,Corporate,United States,Richmond,Indiana,47374,Central,2015-02-20
+SR-20740,Steven Roelle,Home Office,United States,Los Angeles,California,90049,West,2015-02-20
+MG-17875,Michael Grace,Home Office,United States,El Paso,Texas,79907,Central,2015-02-23
+HR-14770,Hallie Redmond,Home Office,United States,New York City,New York,10035,East,2015-03-01
+VF-21715,Vicky Freymann,Home Office,United States,Elmhurst,Illinois,60126,Central,2015-03-01
+KN-16705,Kristina Nunn,Home Office,United States,New York City,New York,10009,East,2015-03-02
+JS-15595,Jill Stevenson,Corporate,United States,Columbus,Ohio,43229,East,2015-03-03
+AP-10720,Anne Pryor,Home Office,United States,New York City,New York,10035,East,2015-03-03
+CM-12715,Craig Molinari,Corporate,United States,Seattle,Washington,98103,West,2015-03-07
+NP-18685,Nora Pelletier,Home Office,United States,Des Moines,Washington,98198,West,2015-03-07
+FM-14215,Filia McAdams,Corporate,United States,Richmond,Kentucky,40475,South,2015-03-11
+DK-13225,Dean Katz,Corporate,United States,Huntington Beach,California,92646,West,2015-03-14
+CK-12325,Christine Kargatis,Home Office,United States,Chesapeake,Virginia,23320,South,2015-03-14
+RB-19465,Rick Bensley,Home Office,United States,Chicago,Illinois,60653,Central,2015-03-14
+NF-18475,Neil Französisch,Home Office,United States,Jacksonville,Florida,32216,South,2015-03-14
+CP-12340,Christine Phan,Corporate,United States,New York City,New York,10024,East,2015-03-17
+QJ-19255,Quincy Jones,Corporate,United States,Philadelphia,Pennsylvania,19134,East,2015-03-17
+SM-20320,Sean Miller,Home Office,United States,Jacksonville,Florida,32216,South,2015-03-18
+EK-13795,Eileen Kiefer,Home Office,United States,San Francisco,California,94110,West,2015-03-18
+SC-20050,Sample Company A,Home Office,United States,Burbank,California,91505,West,2015-03-18
+MC-17605,Matt Connell,Corporate,United States,Lakeland,Florida,33801,South,2015-03-19
+TS-21205,Thomas Seio,Corporate,United States,Asheville,North Carolina,28806,South,2015-03-21
+KH-16690,Kristen Hastings,Corporate,United States,Springfield,Virginia,22153,South,2015-03-21
+BF-11275,Beth Fritzler,Corporate,United States,Tucson,Arizona,85705,West,2015-03-22
+JD-15895,Jonathan Doherty,Corporate,United States,Los Angeles,California,90036,West,2015-03-26
+DK-12835,Damala Kotsonis,Corporate,United States,San Francisco,California,94122,West,2015-03-26
+DR-12940,Daniel Raglin,Home Office,United States,Albuquerque,New Mexico,87105,West,2015-03-28
+Dl-13600,Dorris liebe,Corporate,United States,Seattle,Washington,98105,West,2015-03-30
+SG-20890,Susan Gilcrest,Corporate,United States,New York City,New York,10009,East,2015-03-30
+MP-17470,Mark Packer,Home Office,United States,Brownsville,Texas,78521,Central,2015-03-30
+KB-16240,Karen Bern,Corporate,United States,Miami,Florida,33180,South,2015-03-31
+KH-16330,Katharine Harms,Corporate,United States,Revere,Massachusetts,2151,East,2015-04-01
+AH-10690,Anna Häberlin,Corporate,United States,Virginia Beach,Virginia,23464,South,2015-04-02
+MZ-17515,Mary Zewe,Corporate,United States,Los Angeles,California,90008,West,2015-04-04
+KB-16585,Ken Black,Corporate,United States,Lafayette,Louisiana,70506,South,2015-04-04
+PK-18910,Paul Knutson,Home Office,United States,San Francisco,California,94109,West,2015-04-04
+GM-14695,Greg Maxwell,Corporate,United States,Alexandria,Virginia,22304,South,2015-04-05
+JG-15805,John Grady,Corporate,United States,Decatur,Illinois,62521,Central,2015-04-05
+TH-21550,Tracy Hopkins,Home Office,United States,New York City,New York,10035,East,2015-04-05
+GP-14740,Guy Phonely,Corporate,United States,Lancaster,Pennsylvania,17602,East,2015-04-06
+SC-20260,Scott Cohen,Corporate,United States,Seattle,Washington,98115,West,2015-04-06
+AY-10555,Andy Yotov,Corporate,United States,Los Angeles,California,90049,West,2015-04-06
+FH-14275,Frank Hawley,Corporate,United States,Los Angeles,California,90004,West,2015-04-06
+RS-19765,Roland Schwarz,Corporate,United States,Columbia,South Carolina,29203,South,2015-04-07
+VM-21685,Valerie Mitchum,Home Office,United States,Marietta,Georgia,30062,South,2015-04-07
+JM-15655,Jim Mitchum,Corporate,United States,Glendale,Arizona,85301,West,2015-04-08
+RA-19885,Ruben Ausman,Corporate,United States,Decatur,Alabama,35601,South,2015-04-08
+PC-19000,Pauline Chand,Home Office,United States,Chandler,Arizona,85224,West,2015-04-08
+GM-14455,Gary Mitchum,Home Office,United States,Austin,Texas,78745,Central,2015-04-11
+KN-16450,Kean Nguyen,Corporate,United States,Redondo Beach,California,90278,West,2015-04-12
+BF-11170,Ben Ferrer,Home Office,United States,Baltimore,Maryland,21215,East,2015-04-13
+PS-18970,Paul Stevenson,Home Office,United States,Los Angeles,California,90049,West,2015-04-15
+SP-20650,Stephanie Phelps,Corporate,United States,Wilmington,North Carolina,28403,South,2015-04-16
+NF-18595,Nicole Fjeld,Home Office,United States,San Jose,California,95123,West,2015-04-19
+DB-13555,Dorothy Badders,Corporate,United States,Henderson,Kentucky,42420,South,2015-04-21
+AH-10030,Aaron Hawkins,Corporate,United States,Troy,New York,12180,East,2015-04-22
+TS-21160,Theresa Swint,Corporate,United States,Philadelphia,Pennsylvania,19134,East,2015-04-23
+LB-16795,Laurel Beltran,Home Office,United States,Columbus,Ohio,43229,East,2015-04-23
+DA-13450,Dianna Arnett,Home Office,United States,Houston,Texas,77095,Central,2015-04-25
+BT-11305,Beth Thompson,Home Office,United States,San Gabriel,California,91776,West,2015-04-25
+AG-10300,Aleksandra Gannaway,Corporate,United States,Los Angeles,California,90049,West,2015-04-26
+MH-17290,Marc Harrigan,Home Office,United States,Los Angeles,California,90036,West,2015-04-26
+MY-18295,Muhammed Yedwab,Corporate,United States,Baltimore,Maryland,21215,East,2015-04-28
+GB-14530,George Bell,Corporate,United States,Newark,Ohio,43055,East,2015-04-28
+DS-13180,David Smith,Corporate,United States,Jamestown,New York,14701,East,2015-04-28
+LA-16780,Laura Armstrong,Corporate,United States,Memphis,Tennessee,38109,South,2015-04-29
+JS-15940,Joni Sundaresam,Home Office,United States,Appleton,Wisconsin,54915,Central,2015-05-03
+BS-11365,Bill Shonely,Corporate,United States,Seattle,Washington,98105,West,2015-05-04
+GD-14590,Giulietta Dortch,Corporate,United States,Arlington,Virginia,22204,South,2015-05-05
+HP-14815,Harold Pawlan,Home Office,United States,Los Angeles,California,90049,West,2015-05-06
+SN-20710,Steve Nguyen,Home Office,United States,Los Angeles,California,90004,West,2015-05-06
+SB-20290,Sean Braxton,Corporate,United States,Henderson,Kentucky,42420,South,2015-05-09
+BG-11695,Brooke Gillingham,Corporate,United States,Watertown,New York,13601,East,2015-05-11
+VW-21775,Victoria Wilson,Corporate,United States,Huntsville,Texas,77340,Central,2015-05-11
+HD-14785,Harold Dahlen,Home Office,United States,Chicago,Illinois,60610,Central,2015-05-11
+EH-14005,Erica Hernandez,Home Office,United States,Hialeah,Florida,33012,South,2015-05-13
+AJ-10795,Anthony Johnson,Corporate,United States,Saint Petersburg,Florida,33710,South,2015-05-14
+PW-19030,Pauline Webber,Corporate,United States,Los Angeles,California,90036,West,2015-05-16
+PA-19060,Pete Armstrong,Home Office,United States,Eau Claire,Wisconsin,54703,Central,2015-05-17
+RF-19345,Randy Ferguson,Corporate,United States,Dover,New Hampshire,3820,East,2015-05-20
+MC-17590,Matt Collister,Corporate,United States,San Marcos,Texas,78666,Central,2015-05-20
+MW-18235,Mitch Willingham,Corporate,United States,Virginia Beach,Virginia,23464,South,2015-05-21
+BT-11530,Bradley Talbott,Home Office,United States,San Diego,California,92037,West,2015-05-21
+FG-14260,Frank Gastineau,Home Office,United States,Lawrence,Massachusetts,1841,East,2015-05-21
+Dp-13240,Dean percer,Home Office,United States,Murray,Utah,84107,West,2015-05-26
+MH-17785,Maya Herman,Corporate,United States,San Diego,California,92105,West,2015-05-27
+PJ-18835,Patrick Jones,Corporate,United States,Seattle,Washington,98115,West,2015-05-28
+EB-13840,Ellis Ballard,Corporate,United States,Richmond,Virginia,23223,South,2015-05-30
+LW-16825,Laurel Workman,Corporate,United States,New York City,New York,10024,East,2015-05-30
+MC-17425,Mark Cousins,Corporate,United States,Chicago,Illinois,60623,Central,2015-05-30
+DW-13480,Dianna Wilson,Home Office,United States,Lakeville,Minnesota,55044,Central,2015-06-01
+CR-12625,Corey Roper,Home Office,United States,Lakewood,New Jersey,8701,East,2015-06-01
+RB-19795,Ross Baird,Home Office,United States,Midland,Michigan,48640,Central,2015-06-03
+GT-14635,Grant Thornton,Corporate,United States,Long Beach,New York,11561,East,2015-06-06
+VT-21700,Valerie Takahito,Home Office,United States,Houston,Texas,77070,Central,2015-06-06
+BP-11095,Bart Pistole,Corporate,United States,Peoria,Illinois,61604,Central,2015-06-07
+KE-16420,Katrina Edelman,Corporate,United States,Bristol,Tennessee,37620,South,2015-06-08
+CW-11905,Carl Weiss,Home Office,United States,Huntsville,Texas,77340,Central,2015-06-09
+HK-14890,Heather Kirkland,Corporate,United States,Detroit,Michigan,48234,Central,2015-06-10
+SR-20425,Sharelle Roach,Home Office,United States,Detroit,Michigan,48234,Central,2015-06-14
+KL-16555,Kelly Lampkin,Corporate,United States,San Antonio,Texas,78207,Central,2015-06-15
+NS-18640,Noel Staavos,Corporate,United States,Los Angeles,California,90049,West,2015-06-25
+GK-14620,Grace Kelly,Corporate,United States,Salem,Oregon,97301,West,2015-06-25
+RW-19630,Rob Williams,Corporate,United States,Detroit,Michigan,48234,Central,2015-06-28
+AR-10825,Anthony Rawles,Corporate,United States,Los Angeles,California,90004,West,2015-06-30
+MS-17980,Michael Stewart,Corporate,United States,Houston,Texas,77095,Central,2015-06-30
+DM-13525,Don Miller,Corporate,United States,Palm Coast,Florida,32137,South,2015-07-05
+DP-13390,Dennis Pardue,Home Office,United States,Los Angeles,California,90004,West,2015-07-05
+BC-11125,Becky Castell,Home Office,United States,El Cajon,California,92020,West,2015-07-06
+EB-13705,Ed Braxton,Corporate,United States,San Francisco,California,94122,West,2015-07-08
+BM-11650,Brian Moss,Corporate,United States,Dallas,Texas,75217,Central,2015-07-09
+GH-14410,Gary Hansen,Home Office,United States,Los Angeles,California,90049,West,2015-07-09
+DS-13030,Darrin Sayre,Home Office,United States,San Francisco,California,94122,West,2015-07-09
+AC-10420,Alyssa Crouse,Corporate,United States,San Francisco,California,94122,West,2015-07-12
+PV-18985,Paul Van Hugh,Home Office,United States,League City,Texas,77573,Central,2015-07-12
+BF-10975,Barbara Fisher,Corporate,United States,New York City,New York,10009,East,2015-07-14
+AW-10930,Arthur Wiediger,Home Office,United States,Aurora,Illinois,60505,Central,2015-07-14
+SS-20515,Shirley Schmidt,Home Office,United States,Newark,Delaware,19711,East,2015-07-14
+AH-10120,Adrian Hane,Home Office,United States,Tucson,Arizona,85705,West,2015-07-18
+CA-12310,Christine Abelman,Corporate,United States,Bristol,Connecticut,6010,East,2015-07-19
+EM-14140,Eugene Moren,Home Office,United States,Great Falls,Montana,59405,West,2015-07-19
+KM-16375,Katherine Murray,Home Office,United States,Dallas,Texas,75217,Central,2015-07-20
+ME-18010,Michelle Ellison,Corporate,United States,San Francisco,California,94122,West,2015-07-21
+HM-14860,Harry Marie,Corporate,United States,Dallas,Texas,75217,Central,2015-07-21
+AB-10255,Alejandro Ballentine,Home Office,United States,Los Angeles,California,90008,West,2015-07-22
+NC-18535,Nick Crebassa,Corporate,United States,San Francisco,California,94122,West,2015-07-23
+AS-10045,Aaron Smayling,Corporate,United States,New York City,New York,10035,East,2015-07-27
+BB-10990,Barry Blumstein,Corporate,United States,Los Angeles,California,90036,West,2015-07-27
+TS-21430,Tom Stivers,Corporate,United States,Seattle,Washington,98103,West,2015-07-30
+AS-10630,Ann Steele,Home Office,United States,Philadelphia,Pennsylvania,19120,East,2015-08-01
+NZ-18565,Nick Zandusky,Home Office,United States,Springfield,Missouri,65807,Central,2015-08-02
+RS-19420,Ricardo Sperren,Corporate,United States,Meriden,Connecticut,6450,East,2015-08-05
+MA-17560,Matt Abelman,Home Office,United States,Trenton,Michigan,48183,Central,2015-08-08
+AG-10525,Andy Gerbode,Corporate,United States,Saint Petersburg,Florida,33710,South,2015-08-09
+ED-13885,Emily Ducich,Home Office,United States,San Diego,California,92037,West,2015-08-09
+MG-17650,Matthew Grinstein,Home Office,United States,Seattle,Washington,98103,West,2015-08-09
+CS-12175,Charles Sheldon,Corporate,United States,Lakewood,New Jersey,8701,East,2015-08-12
+DH-13675,Duane Huffman,Home Office,United States,Miami,Florida,33180,South,2015-08-12
+DJ-13510,Don Jones,Corporate,United States,Little Rock,Arkansas,72209,South,2015-08-17
+DE-13255,Deanra Eno,Home Office,United States,Lakewood,Ohio,44107,East,2015-08-22
+RB-19645,Robert Barroso,Corporate,United States,Los Angeles,California,90032,West,2015-08-23
+JP-15460,Jennifer Patt,Corporate,United States,Oceanside,New York,11572,East,2015-08-24
+DW-13585,Dorothy Wardle,Corporate,United States,Owensboro,Kentucky,42301,South,2015-08-24
+JM-15265,Janet Molinari,Corporate,United States,Los Angeles,California,90036,West,2015-08-25
+FM-14290,Frank Merwin,Home Office,United States,Los Angeles,California,90032,West,2015-08-26
+PP-18955,Paul Prost,Home Office,United States,Newark,Delaware,19711,East,2015-08-26
+CC-12610,Corey Catlett,Corporate,United States,Springfield,Virginia,22153,South,2015-08-27
+HH-15010,Hilary Holden,Corporate,United States,San Francisco,California,94110,West,2015-08-29
+MR-17545,Mathew Reese,Home Office,United States,Houston,Texas,77095,Central,2015-09-03
+VP-21760,Victoria Pisteka,Corporate,United States,San Francisco,California,94109,West,2015-09-06
+LR-17035,Lisa Ryan,Corporate,United States,Santa Clara,California,95051,West,2015-09-07
+SZ-20035,Sam Zeldin,Home Office,United States,Houston,Texas,77036,Central,2015-09-07
+KC-16255,Karen Carlisle,Corporate,United States,Macon,Georgia,31204,South,2015-09-08
+SP-20620,Stefania Perrino,Corporate,United States,Long Beach,New York,11561,East,2015-09-08
+RR-19525,Rick Reed,Corporate,United States,Lowell,Massachusetts,1852,East,2015-09-09
+BN-11470,Brad Norvell,Corporate,United States,Cary,North Carolina,27511,South,2015-09-12
+TA-21385,Tom Ashbrook,Home Office,United States,Olathe,Kansas,66062,Central,2015-09-12
+EA-14035,Erin Ashbrook,Corporate,United States,Charlotte,North Carolina,28205,South,2015-09-13
+ON-18715,Odella Nelson,Corporate,United States,Tempe,Arizona,85281,West,2015-09-13
+JB-15400,Jennifer Braxton,Corporate,United States,Chicago,Illinois,60623,Central,2015-09-14
+MF-18250,Monica Federle,Corporate,United States,Philadelphia,Pennsylvania,19120,East,2015-09-15
+AG-10765,Anthony Garverick,Home Office,United States,Philadelphia,Pennsylvania,19120,East,2015-09-17
+FA-14230,Frank Atkinson,Corporate,United States,Long Beach,California,90805,West,2015-09-19
+MC-18130,Mike Caudle,Corporate,United States,Seattle,Washington,98115,West,2015-09-19
+JK-15640,Jim Kriz,Home Office,United States,San Francisco,California,94110,West,2015-09-19
+HG-14965,Henry Goldwyn,Corporate,United States,San Diego,California,92024,West,2015-09-20
+MA-17995,Michelle Arnett,Home Office,United States,Los Angeles,California,90004,West,2015-09-20
+SL-20155,Sara Luxemburg,Home Office,United States,New York City,New York,10011,East,2015-09-21
+VG-21805,Vivek Grady,Corporate,United States,Chicago,Illinois,60653,Central,2015-09-22
+TH-21115,Thea Hudgings,Corporate,United States,Newark,Delaware,19711,East,2015-09-23
+JP-16135,Julie Prescott,Home Office,United States,New York City,New York,10011,East,2015-09-23
+MT-18070,Michelle Tran,Home Office,United States,Houston,Texas,77041,Central,2015-09-25
+BF-11005,Barry Franz,Home Office,United States,Aurora,Colorado,80013,West,2015-09-25
+NB-18580,Nicole Brennan,Corporate,United States,Philadelphia,Pennsylvania,19134,East,2015-09-26
+CS-12400,Christopher Schild,Home Office,United States,Seattle,Washington,98115,West,2015-09-26
+KF-16285,Karen Ferguson,Home Office,United States,San Diego,California,92105,West,2015-09-26
+GZ-14545,George Zrebassa,Corporate,United States,Lawrence,Massachusetts,1841,East,2015-09-28
+KD-16495,Keith Dawkins,Corporate,United States,Fayetteville,North Carolina,28314,South,2015-09-28
+SM-20950,Suzanne McNair,Corporate,United States,Philadelphia,Pennsylvania,19134,East,2015-09-29
+DM-12955,Dario Medina,Corporate,United States,Fairfield,Ohio,45014,East,2015-09-30
+ES-14080,Erin Smith,Corporate,United States,Tempe,Arizona,85281,West,2015-10-02
+AR-10405,Allen Rosenblatt,Corporate,United States,Los Angeles,California,90036,West,2015-10-03
+AM-10360,Alice McCarthy,Corporate,United States,Omaha,Nebraska,68104,Central,2015-10-06
+FC-14335,Fred Chung,Corporate,United States,Albuquerque,New Mexico,87105,West,2015-10-10
+TN-21040,Tanja Norvell,Home Office,United States,Manteca,California,95336,West,2015-10-10
+BP-11050,Barry Pond,Corporate,United States,Chicago,Illinois,60623,Central,2015-10-12
+SP-20545,Sibella Parks,Corporate,United States,Mount Vernon,New York,10550,East,2015-10-13
+JE-15610,Jim Epp,Corporate,United States,Concord,New Hampshire,3301,East,2015-10-14
+AS-10225,Alan Schoenberger,Corporate,United States,Montgomery,Alabama,36116,South,2015-10-18
+EH-13765,Edward Hooks,Corporate,United States,Philadelphia,Pennsylvania,19134,East,2015-10-18
+LS-17200,Luke Schmidt,Corporate,United States,Texarkana,Arkansas,71854,South,2015-10-18
+RP-19270,Rachel Payne,Corporate,United States,San Francisco,California,94110,West,2015-10-19
+EH-14125,Eugene Hildebrand,Home Office,United States,Lakewood,California,90712,West,2015-10-19
+FH-14365,Fred Hopkins,Corporate,United States,Knoxville,Tennessee,37918,South,2015-10-20
+LS-16975,Lindsay Shagiari,Home Office,United States,Chicago,Illinois,60653,Central,2015-10-20
+SF-20965,Sylvia Foulston,Corporate,United States,San Diego,California,92024,West,2015-10-21
+MG-17680,Maureen Gastineau,Home Office,United States,Newark,Ohio,43055,East,2015-10-22
+DB-12910,Daniel Byrd,Home Office,United States,Fort Lauderdale,Florida,33311,South,2015-10-24
+RD-19810,Ross DeVincentis,Home Office,United States,Fayetteville,North Carolina,28314,South,2015-10-27
+TS-21370,Todd Sumrall,Corporate,United States,Los Angeles,California,90049,West,2015-10-28
+BT-11395,Bill Tyler,Corporate,United States,Garden City,Kansas,67846,Central,2015-10-28
+NC-18625,Noah Childs,Corporate,United States,Columbus,Indiana,47201,Central,2015-10-29
+GG-14650,Greg Guthrie,Corporate,United States,Los Angeles,California,90049,West,2015-10-31
+NL-18310,Nancy Lomonaco,Home Office,United States,San Francisco,California,94110,West,2015-10-31
+KH-16630,Ken Heidel,Corporate,United States,Charlotte,North Carolina,28205,South,2015-11-01
+DG-13300,Deirdre Greer,Corporate,United States,Orange,New Jersey,7050,East,2015-11-01
+PL-18925,Paul Lucas,Home Office,United States,Los Angeles,California,90049,West,2015-11-01
+SW-20755,Steven Ward,Corporate,United States,Seattle,Washington,98115,West,2015-11-02
+JK-16120,Julie Kriz,Home Office,United States,Fort Lauderdale,Florida,33311,South,2015-11-02
+DM-13345,Denise Monton,Corporate,United States,Orange,New Jersey,7050,East,2015-11-03
+TC-21535,Tracy Collins,Home Office,United States,Los Angeles,California,90049,West,2015-11-03
+TH-21235,Tiffany House,Corporate,United States,Long Beach,California,90805,West,2015-11-04
+TC-20980,Tamara Chand,Corporate,United States,Houston,Texas,77041,Central,2015-11-07
+BF-11215,Benjamin Farhat,Home Office,United States,New York City,New York,10035,East,2015-11-09
+DB-12970,Darren Budd,Corporate,United States,Houston,Texas,77036,Central,2015-11-12
+CM-11815,Candace McMahon,Corporate,United States,Pasadena,Texas,77506,Central,2015-11-14
+RM-19675,Robert Marley,Home Office,United States,New York City,New York,10011,East,2015-11-14
+AH-10075,Adam Hart,Corporate,United States,Huntington Beach,California,92646,West,2015-11-16
+JD-16150,Justin Deggeller,Corporate,United States,Los Angeles,California,90008,West,2015-11-16
+RH-19510,Rick Huthwaite,Home Office,United States,Manhattan,Kansas,66502,Central,2015-11-16
+YC-21895,Yoseph Carroll,Corporate,United States,Newark,Delaware,19711,East,2015-11-17
+AB-10600,Ann Blume,Corporate,United States,Chicago,Illinois,60623,Central,2015-11-18
+JC-16105,Julie Creighton,Corporate,United States,Minneapolis,Minnesota,55407,Central,2015-11-18
+MK-17905,Michael Kennedy,Corporate,United States,Franklin,Wisconsin,53132,Central,2015-11-18
+GR-14560,Georgia Rosenberg,Corporate,United States,Wilmington,Delaware,19805,East,2015-11-19
+DB-13360,Dennis Bolton,Home Office,United States,Salt Lake City,Utah,84106,West,2015-11-19
+AD-10180,Alan Dominguez,Home Office,United States,Philadelphia,Pennsylvania,19134,East,2015-11-19
+DH-13075,Dave Hallsten,Corporate,United States,Richmond,Kentucky,40475,South,2015-11-21
+JK-15325,Jason Klamczynski,Corporate,United States,Dallas,Texas,75220,Central,2015-11-21
+SC-20680,Steve Carroll,Home Office,United States,San Francisco,California,94110,West,2015-11-21
+TC-21475,Tony Chapman,Home Office,United States,Bolingbrook,Illinois,60440,Central,2015-11-22
+SS-20140,Saphhira Shifley,Corporate,United States,Mesquite,Texas,75150,Central,2015-11-23
+PB-19210,Phillip Breyer,Corporate,United States,Philadelphia,Pennsylvania,19134,East,2015-11-23
+HR-14830,Harold Ryan,Corporate,United States,Seattle,Washington,98103,West,2015-11-24
+NG-18355,Nat Gilpin,Corporate,United States,Jackson,Michigan,49201,Central,2015-11-24
+MP-18175,Mike Pelletier,Home Office,United States,New York City,New York,10009,East,2015-11-25
+MC-17635,Matthew Clasen,Corporate,United States,Richmond,Indiana,47374,Central,2015-11-28
+BS-11380,Bill Stewart,Corporate,United States,Skokie,Illinois,60076,Central,2015-11-29
+MD-17860,Michael Dominguez,Corporate,United States,Corpus Christi,Texas,78415,Central,2015-12-02
+KN-16390,Katherine Nockton,Corporate,United States,Columbus,Ohio,43229,East,2015-12-02
+EM-13825,Elizabeth Moffitt,Corporate,United States,Sandy Springs,Georgia,30328,South,2015-12-02
+CP-12085,Cathy Prescott,Corporate,United States,New York City,New York,10024,East,2015-12-04
+DK-13150,David Kendrick,Corporate,United States,Decatur,Illinois,62521,Central,2015-12-05
+NB-18655,Nona Balk,Corporate,United States,Philadelphia,Pennsylvania,19134,East,2015-12-05
+TB-21175,Thomas Boland,Corporate,United States,Houston,Texas,77041,Central,2015-12-08
+DJ-13420,Denny Joy,Corporate,United States,San Francisco,California,94110,West,2015-12-08
+SH-19975,Sally Hughsby,Corporate,United States,Caldwell,Idaho,83605,West,2015-12-10
+CY-12745,Craig Yedwab,Corporate,United States,San Antonio,Texas,78207,Central,2015-12-12
+KC-16675,Kimberly Carter,Corporate,United States,Henderson,Kentucky,42420,South,2015-12-13
+CS-11845,Cari Sayre,Corporate,United States,Chicago,Illinois,60623,Central,2015-12-14
+SP-20860,Sung Pak,Corporate,United States,Chicago,Illinois,60623,Central,2015-12-15
+SC-20695,Steve Chapman,Corporate,United States,Detroit,Michigan,48227,Central,2015-12-16
+SH-20635,Stefanie Holloman,Corporate,United States,Sacramento,California,95823,West,2015-12-16
+CC-12100,Chad Cunningham,Home Office,United States,Los Angeles,California,90049,West,2015-12-16
+PS-19045,Penelope Sewall,Home Office,United States,Harrisonburg,Virginia,22801,South,2015-12-20
+TW-21025,Tamara Willingham,Home Office,United States,New York City,New York,10011,East,2015-12-22
+AT-10435,Alyssa Tate,Home Office,United States,Los Angeles,California,90004,West,2015-12-27
+TB-21190,Thomas Brumley,Home Office,United States,New York City,New York,10011,East,2015-12-27
+MG-17890,Michael Granlund,Home Office,United States,Saint Charles,Illinois,60174,Central,2015-12-29
+KB-16600,Ken Brennan,Corporate,United States,Taylor,Michigan,48180,Central,2015-12-30
+MF-17665,Maureen Fritzler,Corporate,United States,Phoenix,Arizona,85023,West,2015-12-30
+AR-10345,Alex Russell,Corporate,United States,Philadelphia,Pennsylvania,19143,East,2015-12-30
+PC-18745,Pamela Coakley,Corporate,United States,Watertown,New York,13601,East,2015-12-31
+JL-15175,James Lanier,Home Office,United States,Reno,Nevada,89502,West,2015-12-31
+CB-12535,Claudia Bergmann,Corporate,United States,Newark,Delaware,19711,East,2016-01-02
+AG-10495,Andrew Gjertsen,Corporate,United States,Alexandria,Virginia,22304,South,2016-01-04
+YS-21880,Yana Sorensen,Corporate,United States,Newark,Delaware,19711,East,2016-01-12
+CS-12490,Cindy Schnelling,Corporate,United States,Toledo,Ohio,43615,East,2016-01-12
+KS-16300,Karen Seio,Corporate,United States,Columbus,Georgia,31907,South,2016-01-13
+CR-12820,Cyra Reiten,Home Office,United States,West Palm Beach,Florida,33407,South,2016-01-24
+RW-19540,Rick Wilson,Corporate,United States,Los Angeles,California,90008,West,2016-02-03
+LO-17170,Lori Olson,Corporate,United States,Suffolk,Virginia,23434,South,2016-02-06
+RP-19855,Roy Phan,Corporate,United States,Kenosha,Wisconsin,53142,Central,2016-02-15
+LC-16960,Lindsay Castell,Home Office,United States,New York City,New York,10024,East,2016-02-23
+TP-21565,Tracy Poddar,Corporate,United States,Coppell,Texas,75019,Central,2016-03-01
+AH-10195,Alan Haines,Corporate,United States,Bethlehem,Pennsylvania,18018,East,2016-03-05
+EB-13750,Edward Becker,Corporate,United States,Plantation,Florida,33317,South,2016-03-12
+JO-15550,Jesus Ocampo,Home Office,United States,Seattle,Washington,98105,West,2016-03-19
+BW-11110,Bart Watters,Corporate,United States,Milwaukee,Wisconsin,53209,Central,2016-03-20
+FW-14395,Fred Wasserman,Corporate,United States,Huntsville,Alabama,35810,South,2016-03-22
+BP-11185,Ben Peterman,Corporate,United States,Coral Springs,Florida,33065,South,2016-03-24
+BV-11245,Benjamin Venier,Corporate,United States,Miami,Florida,33142,South,2016-03-26
+HJ-14875,Heather Jas,Home Office,United States,Mesa,Arizona,85204,West,2016-04-13
+MP-17965,Michael Paige,Corporate,United States,Mcallen,Texas,78501,Central,2016-04-18
+LS-16945,Linda Southworth,Corporate,United States,Los Angeles,California,90004,West,2016-04-25
+JW-15220,Jane Waco,Corporate,United States,Lawrence,Massachusetts,1841,East,2016-04-30
+DB-13120,David Bremer,Corporate,United States,Tampa,Florida,33614,South,2016-05-01
+JB-16045,Julia Barnett,Home Office,United States,Chula Vista,California,91911,West,2016-05-03
+SV-20815,Stuart Van,Corporate,United States,Indianapolis,Indiana,46203,Central,2016-05-04
+NK-18490,Neil Knudson,Home Office,United States,Seattle,Washington,98105,West,2016-05-28
+BD-11560,Brendan Dodson,Home Office,United States,Springfield,Virginia,22153,South,2016-05-30
+CG-12040,Catherine Glotzbach,Home Office,United States,Los Angeles,California,90045,West,2016-06-01
+BB-11545,Brenda Bowman,Corporate,United States,Saint Charles,Missouri,63301,Central,2016-06-05
+EM-13810,Eleni McCrary,Corporate,United States,Los Angeles,California,90036,West,2016-06-07
+FC-14245,Frank Carlisle,Home Office,United States,Springfield,Ohio,45503,East,2016-06-13
+SN-20560,Skye Norling,Home Office,United States,Peoria,Arizona,85345,West,2016-06-18
+SC-20770,Stewart Carmichael,Corporate,United States,San Francisco,California,94122,West,2016-06-20
+CH-12070,Cathy Hwang,Home Office,United States,Philadelphia,Pennsylvania,19143,East,2016-06-25
+VP-21730,Victor Preis,Home Office,United States,Sterling Heights,Michigan,48310,Central,2016-07-05
+KM-16225,Kalyca Meade,Corporate,United States,New York City,New York,10011,East,2016-07-06
+VB-21745,Victoria Brennan,Corporate,United States,Houston,Texas,77041,Central,2016-07-17
+BE-11455,Brad Eason,Home Office,United States,Providence,Rhode Island,2908,East,2016-08-02
+EM-14095,Eudokia Martin,Corporate,United States,Springfield,Virginia,22153,South,2016-08-07
+PN-18775,Parhena Norris,Home Office,United States,Bakersfield,California,93309,West,2016-08-07
+PO-19180,Philisse Overcash,Home Office,United States,New York City,New York,10035,East,2016-08-11
+TT-21265,Tim Taslimi,Corporate,United States,Los Angeles,California,90045,West,2016-08-15
+SC-20440,Shaun Chance,Corporate,United States,New Bedford,Massachusetts,2740,East,2016-08-17
+DP-13105,Dave Poirier,Corporate,United States,New York City,New York,10035,East,2016-08-22
+RB-19705,Roger Barcio,Home Office,United States,New York City,New York,10009,East,2016-08-22
+CA-12055,Cathy Armstrong,Home Office,United States,Houston,Texas,77036,Central,2016-09-05
+CC-12430,Chuck Clark,Home Office,United States,New York City,New York,10024,East,2016-09-06
+BM-11575,Brendan Murry,Corporate,United States,New York City,New York,10035,East,2016-09-15
+AC-10615,Ann Chong,Corporate,United States,Philadelphia,Pennsylvania,19143,East,2016-09-15
+MO-17800,Meg O'Connel,Home Office,United States,Los Angeles,California,90036,West,2016-09-17
+JR-16210,Justin Ritter,Corporate,United States,Jacksonville,Florida,32216,South,2016-09-18
+AB-10060,Adam Bellavance,Home Office,United States,Des Moines,Washington,98198,West,2016-09-18
+NH-18610,Nicole Hansen,Corporate,United States,Columbus,Georgia,31907,South,2016-09-19
+SJ-20125,Sanjit Jacobs,Home Office,United States,Franklin,Tennessee,37064,South,2016-09-22
+DR-12880,Dan Reichenbach,Corporate,United States,New York City,New York,10011,East,2016-09-25
+BS-11800,Bryan Spruell,Home Office,United States,San Diego,California,92037,West,2016-09-26
+HW-14935,Helen Wasserman,Corporate,United States,Detroit,Michigan,48205,Central,2016-09-27
+JJ-15760,Joel Jenkins,Home Office,United States,Springfield,Virginia,22153,South,2016-10-05
+GH-14485,Gene Hale,Corporate,United States,Dallas,Texas,75081,Central,2016-10-08
+RD-19660,Robert Dilbeck,Home Office,United States,Oakland,California,94601,West,2016-10-24
+MY-17380,Maribeth Yedwab,Corporate,United States,Rancho Cucamonga,California,91730,West,2016-10-26
+CM-12655,Corinna Mitchell,Home Office,United States,Los Angeles,California,90008,West,2016-11-03
+MZ-17335,Maria Zettner,Home Office,United States,San Diego,California,92024,West,2016-11-08
+PB-18805,Patrick Bzostek,Home Office,United States,San Francisco,California,94122,West,2016-11-20
+KB-16405,Katrina Bavinger,Home Office,United States,Seattle,Washington,98105,West,2016-11-20
+MH-17620,Matt Hagelstein,Corporate,United States,San Diego,California,92105,West,2016-12-05
+SU-20665,Stephanie Ulpright,Home Office,United States,Ann Arbor,Michigan,48104,Central,2016-12-05
+TT-21460,Tonja Turnell,Home Office,United States,Fort Worth,Texas,76106,Central,2016-12-08
+PM-19135,Peter McVee,Home Office,United States,Dover,New Hampshire,3820,East,2016-12-19
+EM-14200,Evan Minnotte,Home Office,United States,Miami,Florida,33142,South,2016-12-20
+ER-13855,Elpida Rittenbach,Corporate,United States,Colorado Springs,Colorado,80906,West,2016-12-21
+DL-13495,Dionis Lloyd,Corporate,United States,Detroit,Michigan,48227,Central,2016-12-25
+BT-11485,Brad Thomas,Home Office,United States,Clinton,Maryland,20735,East,2016-12-27
+BO-11350,Bill Overfelt,Corporate,United States,Broken Arrow,Oklahoma,74012,Central,2017-01-03
+EB-13975,Erica Bern,Corporate,United States,Charlotte,North Carolina,28205,South,2017-01-04
+BE-11335,Bill Eplett,Home Office,United States,New York City,New York,10009,East,2017-01-15
+TB-21355,Todd Boyes,Corporate,United States,Plainfield,New Jersey,7060,East,2017-01-25
+HE-14800,Harold Engle,Corporate,United States,Chicago,Illinois,60623,Central,2017-01-30
+JG-15310,Jason Gross,Corporate,United States,Odessa,Texas,79762,Central,2017-03-03
+SW-20350,Sean Wendt,Home Office,United States,Detroit,Michigan,48227,Central,2017-04-09
+CR-12580,Clay Rozendal,Home Office,United States,Elmhurst,Illinois,60126,Central,2017-04-18
+EL-13735,Ed Ludwig,Home Office,United States,Jefferson City,Missouri,65109,Central,2017-04-22
+CL-12700,Craig Leslie,Home Office,United States,Colorado Springs,Colorado,80906,West,2017-04-24
+KD-16615,Ken Dana,Corporate,United States,Scottsdale,Arizona,85254,West,2017-04-30
+LW-16990,Lindsay Williams,Corporate,United States,Henderson,Nevada,89015,West,2017-05-05
+CV-12805,Cynthia Voltz,Corporate,United States,Austin,Texas,78745,Central,2017-05-09
+AS-10285,Alejandro Savely,Corporate,United States,Dallas,Texas,75081,Central,2017-05-21
+SC-20230,Scot Coram,Corporate,United States,Lowell,Massachusetts,1852,East,2017-06-06
+RS-19870,Roy Skaria,Home Office,United States,Philadelphia,Pennsylvania,19120,East,2017-06-07
+DV-13045,Darrin Van Huff,Corporate,United States,Los Angeles,California,90036,West,2017-06-12
+JS-15685,Jim Sink,Corporate,United States,Philadelphia,Pennsylvania,19140,East,2017-06-14
+LD-16855,Lela Donovan,Corporate,United States,Chicago,Illinois,60653,Central,2017-06-26
+ML-17755,Max Ludwig,Home Office,United States,Suffolk,Virginia,23434,South,2017-08-04
+AO-10810,Anthony O'Donnell,Corporate,United States,Los Angeles,California,90045,West,2017-08-16
+MH-18115,Mick Hernandez,Home Office,United States,Pharr,Texas,78577,Central,2017-08-23
+AS-10135,Adrian Shami,Home Office,United States,Auburn,Washington,98002,West,2017-11-13
+JE-16165,Justin Ellison,Corporate,United States,Franklin,Wisconsin,53132,Central,2017-12-05
+CJ-11875,Carl Jackson,Corporate,United States,Philadelphia,Pennsylvania,19140,East,2017-12-30
+ML-18040,Michelle Lonsdale,Corporate,United States,Dearborn,Michigan,48126,Central,2018-03-26
+MG-18205,Mitch Gastineau,Corporate,United States,Jacksonville,Florida,32216,South,2018-04-10
+TC-21145,Theresa Coyne,Corporate,United States,Lakewood,New Jersey,8701,East,2018-09-15
+PH-18790,Patricia Hirasaki,Home Office,United States,Lakeland,Florida,33801,South,2018-10-21
