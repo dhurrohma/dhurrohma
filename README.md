@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Dhur Rohma
-- 👀 I’m interested in Data Scientist and Data Analytics
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I am currently working as a Fullstack Developer at PT Integrasi Logistik Cipta Solusi (Pelindo Solusi Digital) since July 2023
 - 📫 You can reach me on LinkedIn https://www.linkedin.com/in/dhur-rohma/
 
 <!---
